@@ -1,7 +1,3 @@
 ### this is for practice
 
 
-
-
-
-
