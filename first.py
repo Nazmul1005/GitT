@@ -1,4 +1,4 @@
 a = 6
 print(a)
 print("Hello, World!")
-print("HEY! mY name is Nazmul and i have a dick and mustarbate in it")
+print("HEY! mY name is Nazmul")
