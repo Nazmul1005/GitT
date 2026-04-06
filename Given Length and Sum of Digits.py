@@ -1,6 +1,5 @@
 m, s = map(int, input().split())
 
-
 if s == 0:
     if m == 1:
         print("0 0")
