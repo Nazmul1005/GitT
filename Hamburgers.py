@@ -3,7 +3,6 @@ nb, ns, nc = map(int, input().split())
 pb, ps, pc = map(int, input().split())
 r = int(input())
 
-
 rb = recipe.count('B')
 rs = recipe.count('S')
 rc = recipe.count('C')
