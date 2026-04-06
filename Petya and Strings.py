@@ -3,6 +3,7 @@ import sys
 s1 = sys.stdin.readline().strip()
 s2 = sys.stdin.readline().strip()
 
+
 a = s1.lower()
 b = s2.lower()
 
